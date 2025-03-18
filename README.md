@@ -2,7 +2,7 @@ Strategy: Weekly Buying based on Relative Strength [RS] and Hilega-Milega
 Initial Screen Stocks from quarterly OHLC [Stocks Outperforming Index]
     - RS [compared with Nifty50] 
     - Trade Window: (RS > 0) to (RS < RS[-1])
-    - Lookback 3 quarter
+    - Lookback 3 quarter 
 Weekly Screen from weekly OHLC
     - Buying HM-1 [Evaluates Price, Strength, Momentum and Volume]
     - WMA21 > WMA21[-1] (or) WMA21 > SMA3[WMA21]
